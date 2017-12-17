@@ -1,0 +1,41 @@
+
+h3{
+		font-size:30px;
+		font-family:cortana;
+		text-align:center;
+		background-color:#99ff99;
+		color:blue;
+		padding:40px;
+		}
+		p{
+			color:red;
+		}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #99ff33;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: orange;
+}
+img
+	{
+	width:440px;
+	height:220px;
+	}
+			
